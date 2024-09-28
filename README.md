@@ -13,6 +13,8 @@ pip install dominate
 pip install torch==1.12.1+cu113
 pip install torchvision==0.13.1+cu113
 ```
+### Please Download Pre-trained models for Swin Transformer, Vision Transformer and Efficientnet and place them under the Pretrained_model directory
+
 # Data collection and processing
 
 # Performance
