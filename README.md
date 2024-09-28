@@ -16,3 +16,6 @@ pip install torchvision==0.13.1+cu113
 # Data collection and processing
 
 # Performance
+
+# Citation
+Please cite the following paper for using: Large-Population based Deep Learning Models in Classifying Primary Bone Tumors and Bone Infections based on Radiographs:a Retrospective and Multi-reader Multi-center Study. Submission 2024.
